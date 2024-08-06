@@ -1,0 +1,29 @@
+{
+  "bookings": [
+    {
+      "id": "3",
+      "customerName": "dhachu",
+      "cuisinePreferred": "Indian",
+      "bookingTime": "2024-08-07T18:00:00"
+    },
+    {
+      "id": "801",
+      "customerName": "dhanu",
+      "cuisinePreferred": "Indian",
+      "bookingTime": "2024-08-09T09:08"
+    },
+    {
+      "id": "4",
+      "customerName": "preethi",
+      "cuisinePreferred": "Indian",
+      "bookingTime": "2024-09-07T14:24"
+    },
+    {
+      "id": "mkyj",
+      "customerName": "mjkj",
+      "cuisinePreferred": "Indian",
+      "bookingTime": "2024-09-03T14:25"
+    }
+   
+  ]
+}
